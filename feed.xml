@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GraphQL Subgraphs &amp; Apollo Federation Hub</title>
+    <link>https://graphql-subgraphs-apollo-federation-hub.vercel.app/</link>
+    <description>Verified community directory and updates.</description>
+    <lastBuildDate>Wed, 16 Sep 2026 10:21:59 GMT</lastBuildDate>
+    <atom:link href="https://graphql-subgraphs-apollo-federation-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>GraphQL Subgraphs &amp; Apollo Federation Hub Initial Release</title>
+      <link>https://graphql-subgraphs-apollo-federation-hub.vercel.app/</link>
+      <pubDate>Wed, 16 Sep 2026 10:21:59 GMT</pubDate>
+      <description>Initial collection of verified communities published.</description>
+    </item>
+  </channel>
+</rss>
