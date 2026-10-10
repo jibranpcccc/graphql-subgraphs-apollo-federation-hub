@@ -4,10 +4,17 @@
     <title>GraphQL Subgraphs &amp; Apollo Federation Hub</title>
     <link>https://graphql-subgraphs-apollo-federation-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:07:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:06:33 GMT</lastBuildDate>
     <atom:link href="https://graphql-subgraphs-apollo-federation-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                            <item>
+                                                                                <item>
+      <title>📅 Today's Fresh Pick: OpenAI Developer Forum (Forum)</title>
+      <link>https://community.openai.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-forum-20261010-1-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 06:06:33 GMT</pubDate>
+      <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: Official developer forum for troubleshooting OpenAI API endpoints, fine-tuning jobs, and function calling.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: PyTorch GitHub Discussions (GitHub)</title>
       <link>https://discuss.pytorch.org</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-github-20261009-1-2026-10-09</guid>
