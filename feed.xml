@@ -4,10 +4,17 @@
     <title>GraphQL Subgraphs &amp; Apollo Federation Hub</title>
     <link>https://graphql-subgraphs-apollo-federation-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 06:09:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:06:57 GMT</lastBuildDate>
     <atom:link href="https://graphql-subgraphs-apollo-federation-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                <item>
+                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: InfoSec Vulnerability Feeds (Telegram)</title>
+      <link>https://t.me/infosec_alerts</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-telegram-20261021-1-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 06:06:57 GMT</pubDate>
+      <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: Aggregated daily feeds of security advisories, GitHub proof-of-concepts, and defensive countermeasures.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Cyber Security News Alerts (Telegram)</title>
       <link>https://t.me/cybersecurity_news</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-telegram-20261020-1-2026-10-20</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-reddit-20260921-1-2026-09-21</guid>
       <pubDate>Mon, 21 Sep 2026 06:06:13 GMT</pubDate>
       <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: HashiCorp Discuss Community (Forum)</title>
-      <link>https://discuss.hashicorp.com</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-forum-20260920-1-2026-09-20</guid>
-      <pubDate>Sun, 20 Sep 2026 06:08:41 GMT</pubDate>
-      <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: Official forum for Terraform modules, Vault secret management, Nomad orchestration, and Consul networking.</description>
     </item>
   </channel>
 </rss>
