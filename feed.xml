@@ -4,10 +4,17 @@
     <title>GraphQL Subgraphs &amp; Apollo Federation Hub</title>
     <link>https://graphql-subgraphs-apollo-federation-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 23 Oct 2026 06:07:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:06:34 GMT</lastBuildDate>
     <atom:link href="https://graphql-subgraphs-apollo-federation-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                            <item>
+                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: OWASP CheatSheet Discussions (GitHub)</title>
+      <link>https://github.com/OWASP/CheatSheetSeries/discussions</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-github-20261024-1-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 06:06:34 GMT</pubDate>
+      <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: Official community contributions and reviews on OWASP application security best practices.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hack The Box Community Forum (Forum)</title>
       <link>https://forum.hackthebox.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-forum-20261023-1-2026-10-23</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-discord-20260924-1-2026-09-24</guid>
       <pubDate>Thu, 24 Sep 2026 06:06:12 GMT</pubDate>
       <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/ChatGPT AI Community (Reddit)</title>
-      <link>https://www.reddit.com/r/ChatGPT/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-reddit-20260923-1-2026-09-23</guid>
-      <pubDate>Wed, 23 Sep 2026 06:06:26 GMT</pubDate>
-      <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: Vibrant discussion forum on OpenAI ChatGPT updates, prompt engineering strategies, custom GPTs, and creative workflows.</description>
     </item>
   </channel>
 </rss>
