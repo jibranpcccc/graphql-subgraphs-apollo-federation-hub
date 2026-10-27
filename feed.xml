@@ -4,10 +4,17 @@
     <title>GraphQL Subgraphs &amp; Apollo Federation Hub</title>
     <link>https://graphql-subgraphs-apollo-federation-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 06:54:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:07:23 GMT</lastBuildDate>
     <atom:link href="https://graphql-subgraphs-apollo-federation-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                        <item>
+                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
+      <link>https://www.reddit.com/r/linux/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-reddit-20261027-1-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 06:07:23 GMT</pubDate>
+      <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
       <link>https://www.reddit.com/r/science/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-reddit-20261026-1-2026-10-26</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-reddit-20260929-1-2026-09-29</guid>
       <pubDate>Tue, 29 Sep 2026 06:07:09 GMT</pubDate>
       <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: Curated community sharing Midjourney prompt formulas, lighting styles, camera parameters, and generative showcases.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Hugging Face Community Discord (Discord)</title>
-      <link>https://discuss.huggingface.co</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-discord-20260927-1-2026-09-27</guid>
-      <pubDate>Sun, 27 Sep 2026 06:06:19 GMT</pubDate>
-      <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: Hub for the open-source AI community discussing Transformers, Diffusers, model weights, and Hugging Face Spaces.</description>
     </item>
   </channel>
 </rss>
