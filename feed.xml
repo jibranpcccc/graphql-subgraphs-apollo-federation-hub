@@ -4,10 +4,17 @@
     <title>GraphQL Subgraphs &amp; Apollo Federation Hub</title>
     <link>https://graphql-subgraphs-apollo-federation-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 16 Nov 2026 07:24:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:52:41 GMT</lastBuildDate>
     <atom:link href="https://graphql-subgraphs-apollo-federation-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                <item>
+                                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-forum-20261101-1-2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 06:52:41 GMT</pubDate>
+      <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-forum-20261101-1-2026-11-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-reddit-20261017-1-2026-10-17</guid>
       <pubDate>Sat, 17 Oct 2026 06:06:38 GMT</pubDate>
       <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: Tips, methodologies, writeups, and bounty program discussions for HackerOne and Bugcrowd researchers.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/ethicalhacking Community (Reddit)</title>
-      <link>https://www.reddit.com/r/ethicalhacking/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-reddit-20261016-1-2026-10-16</guid>
-      <pubDate>Fri, 16 Oct 2026 06:06:47 GMT</pubDate>
-      <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: Ethical hacking guides, Kali Linux tools, network reconnaissance, and offensive security learning resources.</description>
     </item>
   </channel>
 </rss>
