@@ -4,10 +4,17 @@
     <title>GraphQL Subgraphs &amp; Apollo Federation Hub</title>
     <link>https://graphql-subgraphs-apollo-federation-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 06:06:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:27:19 GMT</lastBuildDate>
     <atom:link href="https://graphql-subgraphs-apollo-federation-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: r/Python Developer Community (Reddit)</title>
+      <link>https://www.reddit.com/r/Python/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-reddit-1-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:27:19 GMT</pubDate>
+      <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-forum-20261101-1-2026-11-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-discord-20261019-1-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 06:06:32 GMT</pubDate>
       <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: Beginner and intermediate hands-on cybersecurity learning platform with active study groups and walkthrough support.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Hack The Box Official Discord (Discord)</title>
-      <link>https://discord.gg/hackthebox</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/graphql-subgraphs-apollo-federation-hub/#graphql-subgraphs-apollo-federation-hub-discord-20261018-1-2026-10-18</guid>
-      <pubDate>Sun, 18 Oct 2026 06:06:33 GMT</pubDate>
-      <description>Newly verified community added to GraphQL Subgraphs &amp; Apollo Federation Hub: Official community for Hack The Box users tackling active CTF machines, forensic challenges, and Academy modules.</description>
     </item>
   </channel>
 </rss>
